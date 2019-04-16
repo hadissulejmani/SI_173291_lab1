@@ -1,0 +1,5 @@
+commit ef2b4ee83e0551300a811a65203518d7bd72f68c (HEAD -> logs, origin/master, master)
+Author: hadissulejmani <hadissulejmani@outlook.com>
+Date:   Tue Apr 16 15:54:45 2019 +0200
+
+    Initial commit
